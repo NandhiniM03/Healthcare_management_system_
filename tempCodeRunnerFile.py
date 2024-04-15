@@ -1,0 +1,5 @@
+c = conn.cursor()
+# c.execute('''INSERT INTO users (name,email,password,role,status)
+#              VALUES (?, ?, ?, ?, ?)''', ("Admin","admin@gmail.com","1234","admin",True ))
+# conn.commit()
+# conn.close()
